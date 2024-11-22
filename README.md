@@ -10,9 +10,9 @@
 
 ## 🛠 프로젝트
 ###  저는 지금까지 총 3개의 프로젝트에 참여했습니다.
-- 스톱모션 팀 프로젝트- 스탑모션 제작, 디자인 참여
-- '청각의 시각화, HEYEAR' - 디자인 참여 - 보러가기 -> [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=Mjarsi7XNoo)](https://www.youtube.com/watch?v=Mjarsi7XNoo) 
-- <OASIS> UX/UI 팀 프로젝트 - UX/UI 디자인 참여
+- 스톱모션 팀 프로젝트- 스탑모션 제작, 디자인 참여, 파이널 영상 제작
+- '청각의 시각화, HEYEAR' - 디자인 참여, 기획 - 보러가기 -> [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=Mjarsi7XNoo)](https://www.youtube.com/watch?v=Mjarsi7XNoo) 
+- <OASIS> UX/UI 팀 프로젝트 - UX/UI 디자인 참여, 기획, 유저플로우/와이어프레임 제작
 
 
  ## 🛠 기술스택
