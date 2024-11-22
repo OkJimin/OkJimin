@@ -14,7 +14,7 @@
 
 - 연락은 ojm1021@naver.com 또는 dhrwlals1021@gmail.com으로 메일 보내주시면 됩니다.
 
-- ## 기술스택
+ ## 기술스택
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![P5.js](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
