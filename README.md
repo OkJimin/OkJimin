@@ -4,7 +4,7 @@
 
 
 저는 현재 중앙대학교 예술공학부에 재학 중 입니다. 
-영화제작, 무대 기획, 디자인, VFX에 관심이 있습니다.내년 ACP자격증을 따기 위해 준비 중입니다. 🚗
+영화제작, 무대 기획, 디자인, VFX에 관심이 있습니다.
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I%20AM%20Jimin&fontSize=90)
 
@@ -31,7 +31,7 @@
 
 ## 🌱 목표
 - 코딩 실력 늘리기
-- ACP 자격증 취득하기 -> 2025년도에 꼭!
+- ACP 자격증 취득하기 🚗 -> 2025년도에 꼭!
 - 개인 작업 늘리기
 
 ## 🧑‍💻활동통계
